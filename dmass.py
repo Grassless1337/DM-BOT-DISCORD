@@ -14,7 +14,7 @@ async def on_ready():
           f'Connected to {str(len(bot.guilds))} servers |'
           f'Connected to {str(len(set(bot.get_all_members())))} users')
     print('--------')
-    print('CREATED AND HOSTED BY INVADER OP | Fixed Version')
+    print('Grassless#1337 fixed some problems, idk the who the original owner is')
 
 
 @bot.event
